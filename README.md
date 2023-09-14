@@ -4,6 +4,9 @@
 )](https://www.linkedin.com/in/willie-grimaldi/)
 
 
+![WILLIE stats](https://readme-stats-willie.vercel.app/api?username=williesouza&show_icons=true&theme=dracula)
+
+
 
 ## Tecnologias
 
