@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/willie-grimaldi/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williesouza&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](github-readme-stats-eta-rose-76.vercel.app/api?username=williesouza&show_icons=true&theme=dracula)
 
 
 ## Tecnologias
