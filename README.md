@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/willie-grimaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willie-grimaldi" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-williesouza.vercel.app/api?username=williesouza&show_icons=true&theme=tokyonight)
+![Willie's GitHub stats](https://github-readme-stats-williesouza.vercel.app/api?username=williesouza&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br/>
 <h3 align="left">Languages and Tools:</h3>
